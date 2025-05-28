@@ -1,4 +1,4 @@
-Content editing system
+## Content editing system
 
 A comprehensive framework for identifying and fixing common content issues to improve clarity, engagement, and effectiveness in business writing.
 Overview
